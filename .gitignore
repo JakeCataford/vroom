@@ -1,0 +1,27 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+*.svd
+*.suo
+*.pdb
+vroom_Data/**
+*.swp
+*.exe
+*.app
+*.csproj
+*.pidb
+*.sln
+*.unityproj
+*.userprefs
+
+![Ll]ibrary/*.asset
+![Ll]ibrary/AssetImportState
+![Ll]ibrary/AssetVersioning.db
+![Ll]ibrary/BuildPlayer.prefs
+![Ll]ibrary/ScriptMapper
+![Ll]ibrary/assetservercachev3
+![Ll]ibrary/expandedItems
+![Ll]ibrary/guidmapper
+![Ll]ibrary/unity default resources
+![Ll]ibrary/unity editor resources
+Builds
